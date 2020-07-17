@@ -25,7 +25,7 @@ SECRET_KEY = '&u*0k3n&r14zkl*06@d_n-(bt&k6pfrzm0kv1e@yxkr61ea@0a'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','.pythonanywhere.comvenv myvenv/']
+ALLOWED_HOSTS = ['127.0.0.1','dreamincoder2001.pythonanywhere.comvenv myvenv/']
 
 
 # Application definition
